@@ -121,10 +121,23 @@ Mobile-first dashboard for student alerts, attendance sheets, and schedule manag
 
 ## 📈 Coding Profiles & Activity
 
-**LeetCode:** [leetcode.com/u/NAGESHPATCHIPALA21](https://leetcode.com/u/NAGESHPATCHIPALA21/)
-**Coding Forums:** GeeksforGeeks | CodeChef | HackerRank
+<p align="center">
+  <a href="https://leetcode.com/u/NAGESHPATCHIPALA21/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/NAGESHPATCHIPALA21" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/NAGESHPATCHIPALA21" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/NAGESHPATCHIPALA21" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
 
 <br>
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NAGESHPATCHIPALA21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nagesh's GitHub Stats" />
